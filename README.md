@@ -6,6 +6,9 @@
 
 한국어로 작성된 Claude Code 완전 가이드북입니다.
 
+책 보러가기  
+👉 [https://revfactory.github.io/claude-code-mastering](https://revfactory.github.io/claude-code-mastering/)
+
 ## 📚 책 구성
 
 ### 🏗️ 기초편 (제1-3장)
